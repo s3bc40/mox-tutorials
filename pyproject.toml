@@ -1,0 +1,7 @@
+[project]
+name = "mox-tutorials"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["doc8>=2.0.0", "esbonio>=0.16.5", "shibuya>=2025.7.14"]
