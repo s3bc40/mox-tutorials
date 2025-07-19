@@ -25,8 +25,10 @@ See `ZKsync Era documentation <https://docs.zksync.io/zksync-era>`_ for more inf
 
 Excited to get started? Let's go!
 
+
 .. toctree::
    :maxdepth: 1
    :caption: Sections
 
-   1_1_setup_your_env
+   1_1_setup_zksync_tools
+   1_2_setup_moccasin_project

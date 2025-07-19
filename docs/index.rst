@@ -17,6 +17,12 @@ with Vyper and Titanoboa.
     `Vyper Smart Contract Developer <https://updraft.cyfrin.io/career-tracks/vyper-smart-contract-developer>`_ career path.
     It is a great resource to learn Vyper and Titanoboa, and it is free!
 
+.. warning::
+
+   These tutorials are designed to be used under a Unix-like operating system.
+   If you are using Windows, we recommend using WSL (Windows Subsystem for Linux)
+   or a virtual machine with a Linux distribution.
+
 .. toctree::
    :maxdepth: 2
    :caption: Tutorials
